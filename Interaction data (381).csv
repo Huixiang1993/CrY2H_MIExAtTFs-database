@@ -1,0 +1,382 @@
+Count,GeneName,Annotation,Lib_ID,At_ID,Genegroup
+1,AGL13, AGAMOUS-like 13 ,Mi_199,AT3G61120,AGL
+1,AGL13, AGAMOUS-like 13 ,Mi_30,AT3G61120,AGL
+1,AGL13, AGAMOUS-like 13 ,Mi_82,AT3G61120,AGL
+2,AGL2, K-box region and MADS-box transcription factor family protein  ,Mi_246,AT5G15800,AGL
+1,AGL39, AGAMOUS-like 39 ,Mi_85,AT5G27130,AGL
+1,AGL49, AGAMOUS-like 49 ,Mi_19,AT1G60040,AGL
+1,AGL49, AGAMOUS-like 49 ,Mi_28,AT1G60040,AGL
+1,AGL49, AGAMOUS-like 49 ,Mi_95,AT1G60040,AGL
+1,AGL56, AGAMOUS-like-56 ,Mi_28,AT1G60880,AGL
+1,AGL66, AGAMOUS-like 66 ,Mi_33,AT1G77980,AGL
+4,AGL81, AGAMOUS-like 81 ,Mi_199,AT5G39750,AGL
+1,AGL81, AGAMOUS-like 81 ,Mi_30,AT5G39750,AGL
+1,AGL81, AGAMOUS-like 81 ,Mi_50,AT5G39750,AGL
+3,AGL81, AGAMOUS-like 81 ,Mi_82,AT5G39750,AGL
+5,anac047, NAC domain containing protein 47 ,Mi_95,AT3G04070,NAC
+1,anac051, NAC with transmembrane motif1 ,Mi_330,AT4G01526,NAC
+2,anac068, NAC domain containing protein 47 ,Mi_298,AT3G04070,NAC
+6,anac090, NAC domain containing protein 90 ,Mi_30,AT5G22380,NAC
+1,aNAC090, NAC domain containing protein 90 ,Mi_330,AT5G22380,NAC
+1,anac090, NAC domain containing protein 90 ,Mi_82,AT5G22380,NAC
+1,ARR10, Arabidopsis response regulator 10 ,Mi_199,AT4G31920,Cytokinin signaling
+1,ARR15, Arabidopsis response regulator 15 ,Mi_174,AT1G74890,Cytokinin signaling
+1,ASL5, Lateral organ boundaries (LOB) domain family protein ,Mi_337,AT2G30130,root developlment
+1,ASL5, Lateral organ boundaries (LOB) domain family protein ,Mi_359,AT2G30130,root developlment
+1,AT1G07050, CCT motif family protein ,Mi_167,AT1G07050,CCT motif
+1,RAX1, Duplicated homeodomain-like superfamily protein ,Mi_375,AT2G36890,
+1,AT2G44940, Integrase-type DNA-binding superfamily protein ,Mi_85,AT2G44940,
+1,AT5G18037, NAC (No Apical Meristem) domain transcriptional regulator superfamily protein ,Mi_199,AT5G18037,NAC
+3,AT5G41380, CCT motif family protein ,Mi_199,AT5G41380,CCT motif
+2,AT5G41380, CCT motif family protein ,Mi_30,AT5G41380,CCT motif
+1,AT5G41380, CCT motif family protein ,Mi_33,AT5G41380,CCT motif
+5,AT5G41380, CCT motif family protein ,Mi_82,AT5G41380,CCT motif
+4,AT5G41380, CCT motif family protein ,Mi_85,AT5G41380,CCT motif
+4,AT5G41380, CCT motif family protein ,Mi_95,AT5G41380,CCT motif
+2,AT5G41580, RING/U-box superfamily protein ,Mi_33,AT5G41580,
+2,AT5G41580, RING/U-box superfamily protein ,Mi_82,AT5G41580,
+1,ATY13, myb domain protein 31 ,Mi_19,AT1G74650,MYB
+2,ATY13, myb domain protein 31 ,Mi_27,AT1G74650,MYB
+1,ATY53, myb domain protein 67 ,Mi_82,AT3G12720,MYB
+2,BEE2, BR enhanced expression 2 ,Mi_40,AT4G36540,BR
+1,bHLH104, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_95,AT4G14410,bHLH
+1,bHLH113, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_30,AT3G19500,bHLH
+1,bHLH113, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_33,AT3G19500,bHLH
+1,bHLH113, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_85,AT3G19500,bHLH
+1,bHLH115, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_29,AT1G51070,bHLH
+1,bHLH115, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_85,AT1G51070,bHLH
+1,bHLH19, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_177,AT2G22760,bHLH
+2,bHLH19, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_199,AT2G22760,bHLH
+1,bHLH19, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_240,AT2G22760,bHLH
+1,bHLH19, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_29,AT2G22760,bHLH
+2,bHLH19, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_30,AT2G22760,bHLH
+1,bHLH19, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_35,AT2G22760,bHLH
+3,bHLH19, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_82,AT2G22760,bHLH
+1,bHLH19, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_85,AT2G22760,bHLH
+1,bZIP1, basic leucine-zipper 1 ,Mi_199,AT5G49450,bZIP
+1,bZIP1, basic leucine-zipper 1 ,Mi_27,AT5G49450,bZIP
+2,bZIP1, basic leucine-zipper 1 ,Mi_298,AT5G49450,bZIP
+5,bZIP1, basic leucine-zipper 1 ,Mi_30,AT5G49450,bZIP
+2,bZIP1, basic leucine-zipper 1 ,Mi_302,AT5G49450,bZIP
+8,bZIP1, basic leucine-zipper 1 ,Mi_33,AT5G49450,bZIP
+1,bZIP1, basic leucine-zipper 1 ,Mi_35,AT5G49450,bZIP
+1,bZIP1, basic leucine-zipper 1 ,Mi_377,AT5G49450,bZIP
+2,bZIP1, basic leucine-zipper 1 ,Mi_42,AT5G49450,bZIP
+7,bZIP1, basic leucine-zipper 1 ,Mi_82,AT5G49450,bZIP
+5,bZIP1, basic leucine-zipper 1 ,Mi_95,AT5G49450,bZIP
+3,bZIP11, basic leucine-zipper 1 ,Mi_367,AT5G49450,bZIP
+1,bZIP2, basic leucine-zipper 2 ,Mi_375,AT2G18160,bZIP
+1,bZIP2, basic leucine-zipper 2 ,Mi_95,AT2G18160,bZIP
+1,bZIP34, Basic-leucine zipper (bZIP) transcription factor family protein ,Mi_250,AT2G42380,bZIP
+1,bZIP34, Basic-leucine zipper (bZIP) transcription factor family protein ,Mi_328,AT2G42380,bZIP
+1,bZIP34, Basic-leucine zipper (bZIP) transcription factor family protein ,Mi_332,AT2G42380,bZIP
+1,bZIP34, Basic-leucine zipper (bZIP) transcription factor family protein ,Mi_376,AT2G42380,bZIP
+1,bZIP42, basic leucine-zipper 42 ,Mi_95,AT3G30530,bZIP
+1,bZIP44, basic leucine-zipper 44 ,Mi_30,AT1G75390,bZIP
+1,bZIP44, basic leucine-zipper 44 ,Mi_35,AT1G75390,bZIP
+2,bZIP48, basic leucine-zipper 48 ,Mi_42,AT2G04038,bZIP
+1,bZIP55, basic leucine-zipper 58 ,Mi_167,AT1G13600,bZIP
+1,bZIP58, basic leucine-zipper 58 ,Mi_199,AT1G13600,bZIP
+1,bZIP58, basic leucine-zipper 58 ,Mi_30,AT1G13600,bZIP
+1,bZIP58, basic leucine-zipper 58 ,Mi_35,AT1G13600,bZIP
+1,bZIP58, basic leucine-zipper 58 ,Mi_354,AT1G13600,bZIP
+1,bZIP58, basic leucine-zipper 58 ,Mi_82,AT1G13600,bZIP
+1,bZIP60, basic region/leucine zipper motif 60 ,Mi_177,AT1G42990,bZIP
+1,bZIP60, basic region/leucine zipper motif 60 ,Mi_95,AT1G42990,bZIP
+2,bZIP9, basic leucine zipper 9 ,Mi_82,AT5G24800,bZIP
+1,BZR1, Brassinosteroid signalling positive regulator (BZR1) family protein ,Mi_177,AT1G75080,BR
+1,C3H16, Zinc finger C-x8-C-x5-C-x3-H type family protein ,Mi_95,AT1G75340,
+1,CBF1, C-repeat/DRE binding factor 1 ,Mi_27,AT4G25490,
+1,COL7, B-box type zinc finger protein with CCT domain ,Mi_293,AT1G73870,CCT
+1,COL7, B-box type zinc finger protein with CCT domain ,Mi_42,AT1G73870,CCT
+2,COL7, B-box type zinc finger protein with CCT domain ,Mi_95,AT1G73870,CCT
+1,CRF1, cytokinin response factor 1 ,Mi_167,AT4G11140,Cytokinin signaling
+1,CRF1, cytokinin response factor 1 ,Mi_177,AT4G11140,Cytokinin signaling
+2,CRF1, cytokinin response factor 1 ,Mi_202,AT4G11140,Cytokinin signaling
+1,CRF1, cytokinin response factor 1 ,Mi_28,AT4G11140,Cytokinin signaling
+1,CRF1, cytokinin response factor 1 ,Mi_82,AT4G11140,Cytokinin signaling
+1,CRF2, cytokinin response factor 2 ,Mi_177,AT4G23750,Cytokinin signaling
+1,CRF2, cytokinin response factor 2 ,Mi_19,AT4G23750,Cytokinin signaling
+1,CRF2, cytokinin response factor 2 ,Mi_30,AT4G23750,Cytokinin signaling
+1,CRF2, cytokinin response factor 2 ,Mi_361,AT4G23750,Cytokinin signaling
+1,CRF2, cytokinin response factor 2 ,Mi_40,AT4G23750,Cytokinin signaling
+1,CRF2, cytokinin response factor 2 ,Mi_5,AT4G23750,Cytokinin signaling
+1,CRF5, cytokinin response factor 5 ,Mi_167,AT2G46310,Cytokinin signaling
+1,CRF5, cytokinin response factor 5 ,Mi_177,AT2G46310,Cytokinin signaling
+1,CRF5, cytokinin response factor 5 ,Mi_248,AT2G46310,Cytokinin signaling
+1,CRF5, cytokinin response factor 5 ,Mi_66,AT2G46310,Cytokinin signaling
+2,CRF5, cytokinin response factor 5 ,Mi_82,AT2G46310,Cytokinin signaling
+1,CUC1, NAC (No Apical Meristem) domain transcriptional regulator superfamily protein ,Mi_85,AT3G15170,NAC
+1,DDF1, Integrase-type DNA-binding superfamily protein ,Mi_173,AT1G12610,
+1,DOF4.2, Dof-type zinc finger domain-containing protein ,Mi_95,AT4G21030,
+2,DREB26, Integrase-type DNA-binding superfamily protein ,Mi_199,AT1G21910,
+2,DREB26, Integrase-type DNA-binding superfamily protein ,Mi_33,AT1G21910,
+1,ERF015, Integrase-type DNA-binding superfamily protein ,Mi_298,AT2G31230 ,
+1,ERF023, Integrase-type DNA-binding superfamily protein ,Mi_82,AT1G01250,
+3,ERF1, ethylene responsive element binding factor 1 ,Mi_199,AT4G17500,ERF
+2,ERF1, ethylene response factor 1 ,Mi_27,AT3G23240,ERF
+1,ERF1, ethylene responsive element binding factor 1 ,Mi_30,AT4G17500,ERF
+2,ERF1, ethylene response factor 1 ,Mi_33,AT3G23240,ERF
+1,ERF1, ethylene responsive element binding factor 1 ,Mi_35,AT4G17500,ERF
+2,ERF1, ethylene responsive element binding factor 1 ,Mi_40,AT4G17500,ERF
+6,ERF1, ethylene responsive element binding factor 1 ,Mi_82,AT4G17500,ERF
+1,ERF1, ethylene responsive element binding factor 1 ,Mi_85,AT4G17500,ERF
+2,ERF1, ethylene responsive element binding factor 1 ,Mi_95,AT4G17500,ERF
+1,ERF1, ethylene responsive element binding factor 1 ,Mi_98,AT4G17500,ERF
+1,ERF104, ethylene response factor 104 ,Mi_178,AT5G61600,ERF
+2,ERF104, ethylene response factor 104 ,Mi_199,AT5G61600,ERF
+1,ERF104, ethylene response factor 104 ,Mi_30,AT5G61600,ERF
+2,ERF104, ethylene response factor 104 ,Mi_33,AT5G61600,ERF
+1,ERF104, ethylene response factor 104 ,Mi_330,AT5G61600,ERF
+3,ERF104, ethylene response factor 104 ,Mi_42,AT5G61600,ERF
+4,ERF104, ethylene response factor 104 ,Mi_82,AT5G61600,ERF
+1,ERF104, ethylene response factor 104 ,Mi_85,AT5G61600,ERF
+5,ERF104, ethylene response factor 104 ,Mi_95,AT5G61600,ERF
+4,ERF15, ethylene-responsive element binding factor 15 ,Mi_298,AT2G31230,ERF
+1,ERF2, ethylene responsive element binding factor 2 ,Mi_202,AT5G47220,ERF
+2,ERF2, ethylene responsive element binding factor 2 ,Mi_29,AT5G47220,ERF
+1,ERF2, ethylene responsive element binding factor 2 ,Mi_290,AT5G47220,ERF
+4,ERF2, ethylene responsive element binding factor 2 ,Mi_40,AT5G47220,ERF
+2,ERF2, ethylene responsive element binding factor 2 ,Mi_82,AT5G47220,ERF
+1,ERF2, ethylene responsive element binding factor 2 ,Mi_85,AT5G47220,ERF
+1,ERF3, ethylene responsive element binding factor 3 ,Mi_178,AT1G50640,ERF
+1,ERF3, ethylene responsive element binding factor 3 ,Mi_196,AT1G50640,ERF
+1,ERF3, ethylene responsive element binding factor 3 ,Mi_199,AT1G50640,ERF
+1,ERF3, ethylene responsive element binding factor 3 ,Mi_290,AT1G50640,ERF
+1,ERF3, ethylene responsive element binding factor 3 ,Mi_298,AT1G50640,ERF
+1,ERF3, ethylene responsive element binding factor 3 ,Mi_304,AT1G50640,ERF
+2,ERF3, ethylene responsive element binding factor 3 ,Mi_33,AT1G50640,ERF
+1,ERF3, ethylene responsive element binding factor 3 ,Mi_337,AT1G50640,ERF
+1,ERF3, ethylene responsive element binding factor 3 ,Mi_42,AT1G50640,ERF
+2,ERF3, ethylene responsive element binding factor 3 ,Mi_95,AT1G50640,ERF
+1,ERF56, Integrase-type DNA-binding superfamily protein ,Mi_30,AT2G22200,ERF
+3,ERF56, Integrase-type DNA-binding superfamily protein ,Mi_82,AT2G22200,ERF
+3,ERF7, ethylene response factor 7 ,Mi_177,AT3G20310,ERF
+1,ERF7, ethylene response factor 7 ,Mi_82,AT3G20310,ERF
+1,GATA1, GATA transcription factor 1 ,Mi_364,AT3G24050,root developlment
+1,GATA12, GATA transcription factor 12 ,Mi_136,AT5G25830,root developlment
+1,GATA12, GATA transcription factor 12 ,Mi_177,AT5G25830,root developlment
+1,GATA12, GATA transcription factor 12 ,Mi_19,AT5G25830,root developlment
+2,GATA12, GATA transcription factor 12 ,Mi_242,AT5G25830,root developlment
+1,GATA12, GATA transcription factor 12 ,Mi_258,AT5G25830,root developlment
+3,GATA12, GATA transcription factor 12 ,Mi_298,AT5G25830,root developlment
+2,GATA12, GATA transcription factor 12 ,Mi_361,AT5G25830,root developlment
+1,GATA12, GATA transcription factor 12 ,Mi_364,AT5G25830,root developlment
+1,GATA9, GATA transcription factor 9 ,Mi_33,AT4G32890,root developlment
+10,GBF4, G-box binding factor 4 ,Mi_27,AT1G03970,
+2,GBF6, G-box binding factor 6 ,Mi_376,AT4G34590,
+2,TT2, Duplicated homeodomain-like superfamily protein ,Mi_28,AT5G35550,
+1,TT2, Duplicated homeodomain-like superfamily protein ,Mi_28,AT5G35550,
+1,TT2, Duplicated homeodomain-like superfamily protein ,Mi_42,AT5G35550,
+1,TT2, Duplicated homeodomain-like superfamily protein ,Mi_66,AT5G35550,
+1,TT2, Duplicated homeodomain-like superfamily protein ,Mi_66,AT5G35550,
+3,HB-12, homeobox 12 ,Mi_177,AT3G61890,
+1,HB-12, homeobox 12 ,Mi_199,AT3G61890,
+2,HB-12, homeobox 12 ,Mi_30,AT3G61890,
+1,HB-12, homeobox 12 ,Mi_33,AT3G61890,
+3,HB-12, homeobox 12 ,Mi_35,AT3G61890,
+1,HB-12, homeobox 12 ,Mi_40,AT3G61890,
+2,HB-12, homeobox 12 ,Mi_82,AT3G61890,
+7,HB-12, homeobox 12 ,Mi_95,AT3G61890,
+3,HB53, homeobox 53 ,Mi_199,AT5G66700,
+1,HB53, homeobox 53 ,Mi_240,AT5G66700,
+3,HB53, homeobox 53 ,Mi_30,AT5G66700,
+3,HB53, homeobox 53 ,Mi_33,AT5G66700,
+2,HB53, homeobox 53 ,Mi_35,AT5G66700,
+9,HB53, homeobox 53 ,Mi_82,AT5G66700,
+1,HB53, homeobox 53 ,Mi_85,AT5G66700,
+1,HB53, homeobox 53 ,Mi_95,AT5G66700,
+1,HB23, homeobox protein 23 ,Mi_95,AT1G26960,
+1,HB-5, homeobox protein 40 ,Mi_199,AT4G36740,
+1,HDG11, homeodomain GLABROUS 11 ,Mi_82,AT1G73360,
+2,AT1G74840, Homeodomain-like superfamily protein ,Mi_30,AT1G74840,
+2,WOX12, WUSCHEL related homeobox 12 ,Mi_167,AT5G17810,root developlment
+1,HB-4, WUSCHEL related homeobox 13 ,Mi_136,AT4G35550,root developlment
+1,HB-4, WUSCHEL related homeobox 13 ,Mi_19,AT4G35550,root developlment
+1,HB-4, WUSCHEL related homeobox 13 ,Mi_242,AT4G35550,root developlment
+2,HB-4, WUSCHEL related homeobox 13 ,Mi_30,AT4G35550,root developlment
+1,HBI1, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_33,AT2G18300,bHLH
+1,HB-4, WUSCHEL related homeobox 13 ,Mi_33,AT4G35550,root developlment
+1,HRE1, Integrase-type DNA-binding superfamily protein ,Mi_337,AT1G72360,
+1,HSFA1D, heat shock transcription factor A1D ,Mi_302,AT1G32330,
+1,HSFA4A, heat shock transcription factor  A4A ,Mi_202,AT4G18880,
+1,HSFA4A, heat shock transcription factor  A4A ,Mi_262,AT4G18880,
+1,HSFA4A, heat shock transcription factor  A4A ,Mi_67,AT4G18880,
+1,HSFA4A, heat shock transcription factor  A4A ,Mi_82,AT4G18880,
+2,HSFA4A, heat shock transcription factor  A4A ,Mi_95,AT4G18880,
+1,IAA15, indole-3-acetic acid inducible 15 ,Mi_82,AT1G80390,IAA
+1,LBD1, LOB domain-containing protein 1 ,Mi_33,AT1G07900,root developlment
+1,LRL1, LJRHL1-like 1 ,Mi_30,AT2G24260,Root hair
+1,LRL1, LJRHL1-like 1 ,Mi_35,AT2G24260,Root hair
+1,LRL1, LJRHL1-like 1 ,Mi_82,AT2G24260,Root hair
+2,LRL2, LJRHL1-like 2 ,Mi_27,AT4G30980,Root hair
+6,MBD05, methyl-CPG-binding domain protein 5 ,Mi_167,AT3G46580,
+1,MBD05, methyl-CPG-binding domain protein 5 ,Mi_177,AT3G46580,
+1,MBD05, methyl-CPG-binding domain protein 5 ,Mi_19,AT3G46580,
+10,MBD05, methyl-CPG-binding domain protein 5 ,Mi_199,AT3G46580,
+5,MBD05, methyl-CPG-binding domain protein 5 ,Mi_27,AT3G46580,
+5,MBD05, methyl-CPG-binding domain protein 5 ,Mi_298,AT3G46580,
+28,MBD05, methyl-CPG-binding domain protein 5 ,Mi_30,AT3G46580,
+20,MBD05, methyl-CPG-binding domain protein 5 ,Mi_33,AT3G46580,
+15,MBD05, methyl-CPG-binding domain protein 5 ,Mi_35,AT3G46580,
+2,MBD05, methyl-CPG-binding domain protein 5 ,Mi_40,AT3G46580,
+4,MBD05, methyl-CPG-binding domain protein 5 ,Mi_42,AT3G46580,
+53,MBD05, methyl-CPG-binding domain protein 5 ,Mi_82,AT3G46580,
+31,MBD05, methyl-CPG-binding domain protein 5 ,Mi_85,AT3G46580,
+55,MBD05, methyl-CPG-binding domain protein 5 ,Mi_95,AT3G46580,
+2,MBD05, methyl-CPG-binding domain protein 5 ,Mi_99,AT3G46580,
+2,MYB1, myb domain protein 1 ,Mi_167,AT3G09230,MYB
+1,MYB1, myb domain protein 1 ,Mi_82,AT3G09230,MYB
+2,MYB111, myb domain protein 111 ,Mi_95,AT5G49330,MYB
+1,MYB122, myb domain protein 122 ,Mi_33,AT1G74080,MYB
+1,MYB14, myb domain protein 14 ,Mi_177,AT2G31180,MYB
+1,MYB14, myb domain protein 14 ,Mi_27,AT2G31180,MYB
+1,MYB15, myb domain protein 15 ,Mi_199,AT3G23250,MYB
+2,MYB15, myb domain protein 15 ,Mi_33,AT3G23250,MYB
+2,MYB15, myb domain protein 15 ,Mi_82,AT3G23250,MYB
+4,MYB15, myb domain protein 15 ,Mi_85,AT3G23250,MYB
+1,MYB16, myb domain protein 16 ,Mi_361,AT5G15310,MYB
+1,MYB20, myb domain protein 20 ,Mi_167,AT1G66230,MYB
+1,MYB20, myb domain protein 20 ,Mi_199,AT1G66230,MYB
+1,MYB20, myb domain protein 20 ,Mi_27,AT1G66230,MYB
+1,MYB20, myb domain protein 20 ,Mi_298,AT1G66230,MYB
+1,MYB20, myb domain protein 20 ,Mi_30,AT1G66230,MYB
+1,MYB20, myb domain protein 20 ,Mi_35,AT1G66230,MYB
+1,MYB20, myb domain protein 20 ,Mi_82,AT1G66230,MYB
+3,MYB20, myb domain protein 20 ,Mi_95,AT1G66230,MYB
+1,MYB21, myb domain protein 21 ,Mi_167,AT3G27810,MYB
+14,MYB21, myb domain protein 21 ,Mi_19,AT3G27810,MYB
+2,MYB21, myb domain protein 21 ,Mi_246,AT3G27810,MYB
+1,MYB21, myb domain protein 21 ,Mi_27,AT3G27810,MYB
+2,MYB21, myb domain protein 21 ,Mi_29,AT3G27810,MYB
+6,MYB21, myb domain protein 21 ,Mi_298,AT3G27810,MYB
+1,MYB35, myb domain protein 50 ,Mi_240,AT1G57604,MYB
+1,MYB47, myb domain protein 47 ,Mi_262,AT1G18710,MYB
+2,MYB47, myb domain protein 47 ,Mi_290,AT1G18710,MYB
+1,MYB49, myb domain protein 49 ,Mi_167,AT5G54230,MYB
+1,MYB49, myb domain protein 49 ,Mi_19,AT5G54230,MYB
+1,MYB49, myb domain protein 49 ,Mi_199,AT5G54230,MYB
+1,MYB49, myb domain protein 49 ,Mi_254,AT5G54230,MYB
+1,MYB49, myb domain protein 49 ,Mi_27,AT5G54230,MYB
+7,MYB49, myb domain protein 49 ,Mi_30,AT5G54230,MYB
+3,MYB49, myb domain protein 49 ,Mi_33,AT5G54230,MYB
+4,MYB49, myb domain protein 49 ,Mi_35,AT5G54230,MYB
+1,MYB49, myb domain protein 49 ,Mi_359,AT5G54230,MYB
+1,MYB49, myb domain protein 49 ,Mi_42,AT5G54230,MYB
+13,MYB49, myb domain protein 49 ,Mi_82,AT5G54230,MYB
+6,MYB49, myb domain protein 49 ,Mi_85,AT5G54230,MYB
+7,MYB49, myb domain protein 49 ,Mi_95,AT5G54230,MYB
+1,MYB55, myb domain protein 55 ,Mi_82,AT4G01680,MYB
+2,MYB55, myb domain protein 55 ,Mi_95,AT4G01680,MYB
+2,MYB58, myb domain protein 58 ,Mi_199,AT1G16490,MYB
+1,MYB58, myb domain protein 63 ,Mi_85,AT1G79180,MYB
+1,MYB58, myb domain protein 58 ,Mi_95,AT1G16490,MYB
+1,MYB60, myb domain protein 60 ,Mi_290,AT1G08810,MYB
+2,MYB61, myb domain protein 61 ,Mi_199,AT1G09540,MYB
+1,MYB61, myb domain protein 61 ,Mi_240,AT1G09540,MYB
+2,MYB61, myb domain protein 61 ,Mi_82,AT1G09540,MYB
+1,MYB61, myb domain protein 61 ,Mi_85,AT1G09540,MYB
+2,MYB63, myb domain protein 63 ,Mi_173,AT1G79180,MYB
+1,MYB63, myb domain protein 63 ,Mi_254,AT1G79180,MYB
+4,MYB63, myb domain protein 63 ,Mi_290,AT1G79180,MYB
+1,MYB74, myb domain protein 74 ,Mi_19,AT4G05100,MYB
+1,MYB74, myb domain protein 74 ,Mi_202,AT4G05100,MYB
+1,MYB74, myb domain protein 74 ,Mi_27,AT4G05100,MYB
+1,MYB74, myb domain protein 74 ,Mi_298,AT4G05100,MYB
+1,MYB74, myb domain protein 74 ,Mi_30,AT4G05100,MYB
+1,MYB74, myb domain protein 74 ,Mi_62,AT4G05100,MYB
+4,MYB74, myb domain protein 74 ,Mi_82,AT4G05100,MYB
+1,MYB74, myb domain protein 74 ,Mi_85,AT4G05100,MYB
+1,MYB74, myb domain protein 74 ,Mi_95,AT4G05100,MYB
+1,MYB74, myb domain protein 74 ,Mi_98,AT4G05100,MYB
+2,MYB87, myb domain protein 87 ,Mi_290,AT4G37780,MYB
+1,MYB90, myb domain protein 90 ,Mi_167,AT1G66390,MYB
+2,MYB90, myb domain protein 90 ,Mi_30,AT1G66390,MYB
+2,MYB90, myb domain protein 90 ,Mi_82,AT1G66390,MYB
+2,MYB90, myb domain protein 90 ,Mi_85,AT1G66390,MYB
+1,MYB90, myb domain protein 90 ,Mi_95,AT1G66390,MYB
+1,MYB92, myb domain protein 92 ,Mi_82,AT5G10280,MYB
+3,MYB94, myb domain protein 94 ,Mi_25,AT3G47600,MYB
+2,MYB94, myb domain protein 94 ,Mi_82,AT3G47600,
+1,MYC67, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_167,AT3G61950,
+1,aNAC001, NAC domain containing protein 1 ,Mi_136,AT1G01010,NAC
+1,aNAC001, NAC domain containing protein 1 ,Mi_27,AT1G01010,NAC
+1,NTM1, NAC with transmembrane motif1 ,Mi_298,AT4G01540,NAC
+1,PAP1, production of anthocyanin pigment 1 ,Mi_199,AT1G56650,
+13,PAP1, production of anthocyanin pigment 1 ,Mi_33,AT1G56650,
+1,PAP1, production of anthocyanin pigment 1 ,Mi_85,AT1G56650,
+3,PAP1, production of anthocyanin pigment 1 ,Mi_95,AT1G56650,
+2,PIL5, phytochrome interacting factor 3-like 5 ,Mi_177,AT2G20180,
+2,PIL5, phytochrome interacting factor 3-like 5 ,Mi_354,AT2G20180,
+1,RAP2.4, related to AP2 4 ,Mi_174,AT1G78080,
+1,RAP2.4, related to AP2 4 ,Mi_177,AT1G78080,
+1,RAP2.4, related to AP2 4 ,Mi_27,AT1G78080,
+2,RAP2.4, related to AP2 4 ,Mi_364,AT1G78080,
+1,RAP2.4, related to AP2 4 ,Mi_62,AT1G78080,
+1,RAP2.4D, Integrase-type DNA-binding superfamily protein ,Mi_82,AT1G22190,
+4,RAP2.4D, Integrase-type DNA-binding superfamily protein ,Mi_95,AT1G22190,
+1,HB-4, WUSCHEL related homeobox 13 ,Mi_330,AT4G35550,root developlment
+1,RAX3, myb domain protein 84 ,Mi_173,AT3G49690,MYB
+1,RAX3, myb domain protein 84 ,Mi_19,AT3G49690,MYB
+3,RAX3, myb domain protein 84 ,Mi_30,AT3G49690,MYB
+4,RAX3, myb domain protein 84 ,Mi_82,AT3G49690,MYB
+2,RAX3, myb domain protein 84 ,Mi_85,AT3G49690,MYB
+2,RCDL1,Rcd1-like protein ,Mi_82,AT3G20800,MYB
+1,RGA1, GRAS family transcription factor family protein ,Mi_199,AT2G01570,
+1,RGA1, GRAS family transcription factor family protein ,Mi_254,AT2G01570,
+1,RHD6, ROOT HAIR DEFECTIVE6 ,Mi_157,AT1G66470,Root hair
+5,RHD6, ROOT HAIR DEFECTIVE6 ,Mi_167,AT1G66470,Root hair
+4,RHD6, ROOT HAIR DEFECTIVE6 ,Mi_19,AT1G66470,Root hair
+3,RHD6, ROOT HAIR DEFECTIVE6 ,Mi_27,AT1G66470,Root hair
+2,RHD6, ROOT HAIR DEFECTIVE6 ,Mi_290,AT1G66470,Root hair
+2,RHD6, ROOT HAIR DEFECTIVE6 ,Mi_298,AT1G66470,Root hair
+1,RHD6, ROOT HAIR DEFECTIVE6 ,Mi_302,AT1G66470,Root hair
+1,RHD6, ROOT HAIR DEFECTIVE6 ,Mi_325,AT1G66470,Root hair
+1,RSL1, RHD SIX-LIKE 1 ,Mi_167,AT5G37800,Root hair
+4,RSL1, RHD SIX-LIKE 1 ,Mi_199,AT5G37800,Root hair
+1,RSL1, RHD SIX-LIKE 1 ,Mi_235,AT5G37800,Root hair
+1,RSL1, RHD SIX-LIKE 1 ,Mi_27,AT5G37800,Root hair
+1,RSL1, RHD SIX-LIKE 1 ,Mi_29,AT5G37800,Root hair
+1,RSL1, RHD SIX-LIKE 1 ,Mi_298,AT5G37800,Root hair
+4,RSL1, RHD SIX-LIKE 1 ,Mi_30,AT5G37800,Root hair
+1,RSL1, RHD SIX-LIKE 1 ,Mi_33,AT5G37800,Root hair
+1,RSL1, RHD SIX-LIKE 1 ,Mi_42,AT5G37800,Root hair
+10,RSL1, RHD SIX-LIKE 1 ,Mi_82,AT5G37800,Root hair
+4,RSL1, RHD SIX-LIKE 1 ,Mi_85,AT5G37800,Root hair
+6,RSL1, RHD SIX-LIKE 1 ,Mi_95,AT5G37800,Root hair
+1,RSL2, ROOT HAIR DEFECTIVE 6-LIKE 2 ,Mi_177,AT4G33880,Root hair
+2,RSL2, ROOT HAIR DEFECTIVE 6-LIKE 2 ,Mi_235,AT4G33880,Root hair
+1,RSL2, ROOT HAIR DEFECTIVE 6-LIKE 2 ,Mi_27,AT4G33880,Root hair
+1,RSL4, root hair defective 6-like 4 ,Mi_85,AT1G27740,Root hair
+1,SCL29, GRAS family transcription factor ,Mi_167,AT3G13840,GRAS
+1,SCL29, GRAS family transcription factor ,Mi_30,AT3G13840,GRAS
+1,SCL29, GRAS family transcription factor ,Mi_95,AT3G13840,GRAS
+1,SCL30, GRAS family transcription factor ,Mi_33,AT3G46600,GRAS
+1,SPCH, basic helix-loop-helix (bHLH) DNA-binding superfamily protein ,Mi_290,AT5G53210,bHLH
+1,TCP12, TCP domain protein 12 ,Mi_254,AT1G68800,TCP
+2,TCP12, TCP domain protein 12 ,Mi_290,AT1G68800,TCP
+1,TCP24, TCP family transcription factor  ,Mi_253,AT1G30210,TCP
+1,TCP24, TCP family transcription factor  ,Mi_27,AT1G30210,TCP
+1,TCP6, TCP family transcription factor  ,Mi_27,AT5G41030,TCP
+1,TCP6, TCP family transcription factor  ,Mi_33,AT5G41030,TCP
+1,TCP6, TCP family transcription factor  ,Mi_42,AT5G41030,TCP
+2,TCP6, TCP family transcription factor  ,Mi_82,AT5G41030,TCP
+1,TCP6, TCP family transcription factor  ,Mi_95,AT5G41030,TCP
+3,TNY, Integrase-type DNA-binding superfamily protein ,Mi_30,AT5G25810,
+1,HB-4, WUSCHEL related homeobox 13 ,Mi_354,AT4G35550,root developlment
+1,HB-4, WUSCHEL related homeobox 13 ,Mi_359,AT4G35550,root developlment
+2,HB-4, WUSCHEL related homeobox 13 ,Mi_48,AT4G35550,root developlment
+2,HB-4, WUSCHEL related homeobox 13 ,Mi_5,AT4G35550,root developlment
+1,HB-4, WUSCHEL related homeobox 13 ,Mi_67,AT4G35550,root developlment
+1,HB-4, WUSCHEL related homeobox 13 ,Mi_95,AT4G35550,root developlment
+3,WOX8, WUSCHEL related homeobox 8 ,Mi_167,AT5G45980,root developlment
+1,WOX8, WUSCHEL related homeobox 8 ,Mi_19,AT5G45980,root developlment
+3,WOX8, WUSCHEL related homeobox 8 ,Mi_27,AT5G45980,root developlment
+1,WRKY23, WRKY DNA-binding protein 23 ,Mi_359,AT2G47260,WRKY
+1,WRKY53, WRKY family transcription factor ,Mi_177,AT4G23810,WRKY
+1,WRKY59, WRKY DNA-binding protein 59 ,Mi_199,AT2G21900,WRKY
+1,WRKY59, WRKY DNA-binding protein 59 ,Mi_298,AT2G21900,WRKY
+4,WRKY59, WRKY DNA-binding protein 59 ,Mi_33,AT2G21900,WRKY
+1,WRKY62, WRKY DNA-binding protein 62 ,Mi_199,AT5G01900,WRKY
+1,WRKY62, WRKY DNA-binding protein 62 ,Mi_30,AT5G01900,WRKY
+1,WRKY62, WRKY DNA-binding protein 62 ,Mi_85,AT5G01900,WRKY
